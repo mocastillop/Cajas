@@ -1,0 +1,55 @@
+.chicoazul {
+    position: absolute;
+    background: rgb(16, 125, 228);
+    border: rgb(63, 63, 63) 10px solid;
+    top: 0px;
+    left: 0px;
+    width: 1200px;
+    height: 80px;
+}
+
+.grandeazul {
+    position: absolute;
+    background: rgb(16, 125, 228);
+    border: rgb(63, 63, 63) 10px solid;
+    width: 1200px;
+    height: 160px;
+}
+
+.grande-arriba {
+    top: 90px;
+    left: 0px;
+}
+
+.medianoazul {
+    position: absolute;
+    background: rgb(16, 125, 228);
+    border: rgb(63, 63, 63) 10px solid;
+    width: 600px;
+    height: 160px;
+}
+
+.mediano-arriba-izquierdo {
+    top: 260px;
+    left: 0px;
+}
+
+.mediano-arriba-derecho {
+    top: 260px;
+    left: 600px;
+}
+
+.grande-abajo {
+    top: 430px;
+    left: 0px;
+}
+
+.margin-abajo {
+    top: 600px;
+    left: 600px;
+}
+
+.margin-izquierdo {
+    top: 600px;
+    left: 0px;
+}
